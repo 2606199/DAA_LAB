@@ -1,0 +1,25 @@
+How to use gitbash for github:
+1 Go to your working directory.
+2 git clone <URL>
+3 git status
+4 git add filename
+5 git status
+6 git commit -m "comment"
+7 git push origin master or main
+
+
+
+making directory
+1.mkdir foldername
+2.create fileinside folder(nano filename.extension)
+3.git add foldername/
+4.git commit -m "comment"
+5.git push origin main
+
+
+
+for moving file
+1.mv filename foldername/(folder in which we wan to move)
+
+
+
